@@ -1,14 +1,10 @@
 # Site settings
-title: Twenty Blog
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: 端木方羽的代码战争
+email: y630960023@qq.com
+description: > # 2012年一不小心就失足了.从此沦为"会写代码和段子的单身狗"
 baseurl: "codewar.win" # the subpath of your site, e.g. /blog/
 url: "http://www.codewar.win" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  gq630960023
 
 # Build settings
 markdown: kramdown
