@@ -74,6 +74,6 @@ profile: true
 
 ###联系我
 
-QQ: 630960023
+QQ:	<a href="tencent://message/?uin=630960023&Site=&Menu=yes">630960023</a> 
 
-Email: 630960023@qq.com
+Email: <a href="630960023@qq.com">630960023@qq.com</a>
