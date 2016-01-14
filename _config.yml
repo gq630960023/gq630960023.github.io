@@ -11,7 +11,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://codewar.win'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
+disqus: ture
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
@@ -19,7 +19,7 @@ url:            'http://codewar.win'
 author:         '端木方羽'
 # authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:2016/:端木方羽的代码战争/
+permalink:      /:year/:title/
 
 defaults:
     -
