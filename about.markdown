@@ -61,7 +61,6 @@ profile: true
 
 ###工作
 
-![工作经历]({{ site.baseurl }}assets/images/工作经历.png)
 ![工作经历]({{ site.baseurl }}assets/images/work.png)
 
 <!--
