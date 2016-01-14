@@ -1,10 +1,42 @@
-# Site settings
-title: 端木方羽的代码战争
-email: y630960023@qq.com
-description: > # 2012年一不小心就失足了.从此沦为"会写代码和段子的单身狗"
-baseurl: "codewar.win" # the subpath of your site, e.g. /blog/
-url: "http://www.codewar.win" # the base hostname & protocol for your site
-github_username:  gq630960023
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-# Build settings
-markdown: kramdown
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
