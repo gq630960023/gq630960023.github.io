@@ -3,11 +3,11 @@
         <span class="prev">
             {% if paginator.previous_page == 1 %}
                 <a href="{{ site.baseurl }}" title="Previous Page">
-                    <span class="arrow">←</span> Newer Posts
+                    <span class="arrow">←</span> 新内容
                 </a>
             {% else %}
                 <a href="{{ site.baseurl }}page{{ paginator.previous_page }}/">
-                    <span class="arrow">←</span> Newer Posts
+                    <span class="arrow">←</span> 新内容
                 </a>
             {% endif %}
         </span>
@@ -15,7 +15,7 @@
     {% if paginator.next_page %}
         <span class="next">
             <a href="{{ site.baseurl }}page{{ paginator.next_page }}/">
-                Older Posts <span class="arrow">→</span>
+                旧内容 <span class="arrow">→</span>
             </a>
         </span>
     {% endif %}

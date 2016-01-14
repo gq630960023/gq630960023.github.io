@@ -1,0 +1,9 @@
+---
+layout: page_not_found
+title: "Page not found"
+permalink: /404.html
+hide: true
+---
+
+咳, 页面..那个...
+就着辣椒吃掉啦!
