@@ -1,6 +1,6 @@
 ---
 title:  "对markDown的适应性测试"
-date:   2016-01-14 15:05:00
+date:   2016-01-13 15:05:00
 description: 内容似乎不完美支持markDown,那么测试一下咯
 ---
 
