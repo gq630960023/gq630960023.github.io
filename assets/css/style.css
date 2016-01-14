@@ -295,7 +295,7 @@ span.code { font-family:Menlo, Monaco, Courier; background-color:#F7FAFB; font-s
 
 
 /*inline code*/
-/*code, tt {
+code, tt {
     padding: 1px 3px;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.95em;
@@ -303,14 +303,14 @@ span.code { font-family:Menlo, Monaco, Courier; background-color:#F7FAFB; font-s
     border: #E3EDF3 1px solid;
     background: #F7FAFB;
     border-radius: 2px;
-}*/
+}
 
 pre	{
 	font-family:Menlo, Monaco, Courier;
 	white-space:pre-wrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
-	background-color:#fdfdfd;
+	background-color:#F7FAFB;
 	/*font-size:14px;*/
 	overflow:auto;
 	border-radius: 3px;
@@ -320,7 +320,7 @@ pre	{
 	  line-height: 1.5em;
 	  font-weight: 500;
 	color: #d0d4d7;
-
+	border-radius: 0px;
 }
 
 table {
