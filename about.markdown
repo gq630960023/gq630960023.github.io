@@ -61,7 +61,7 @@ profile: true
 
 ###工作
 
-![工作经历]({{site.baseurl}}/assets/images/ 工作经历.png)
+![工作经历](/assets/images/工作经历.png)
 
 <!--
 | 时间 | 公司 | 产品项目 | 工作职责 |
