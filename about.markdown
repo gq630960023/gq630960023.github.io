@@ -62,7 +62,7 @@ profile: true
 ###工作
 
 
-![工作经历](http://codewar.win/assets/images/工作经历.png)
+![工作经历](/images/工作经历.png)
 
 <!--
 | 时间 | 公司 | 产品项目 | 工作职责 |
