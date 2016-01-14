@@ -624,13 +624,9 @@ h2.month {
 
 /*inline code*/
 code, tt {
-    padding: 1px 3px;
-    font-family: Inconsolata, monospace, sans-serif;
-    font-size: 0.95em;
-    white-space: pre-wrap;
-    border: #E3EDF3 1px solid;
-    background: #F7FAFB;
-    border-radius: 2px;
+    font-family:Menlo, Monaco, Courier; 
+    background-color:#EEE; 
+    font-size:14px;
 }
 
 /* Media Queries */
