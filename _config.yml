@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: 端木方羽的代码战争
+description: 2012年一不小心就沦为会写代码和段子,偶尔拍点蹩脚照片的单身狗.汪! 
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
@@ -9,17 +9,17 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://codewar.win'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://codewar.win'
+author:         '端木方羽'
+# authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:year/:title/
+permalink:       /:2016/:端木方羽的代码战争/
 
 defaults:
     -
