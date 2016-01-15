@@ -71,13 +71,13 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
  7. 控件在superView中水平居中
  	
  	```
- 	地方
+ 	make.centerY.equalTo(superView);
  	```
  	
 8. 控件在superView中垂直居中
 
 	```
-	订单
+	make.centerX.equalTo(superView);
 	```
 
 ####概念区分
@@ -92,6 +92,6 @@ equalTo() 与 mas_equalTo() 的区别为:前者的参数为object,后者为前�
 #####offset()与inset()的区别
 
 ```
-的地方撒地方
+待补充
 ```
  
