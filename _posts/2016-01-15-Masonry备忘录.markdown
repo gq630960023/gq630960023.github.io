@@ -49,9 +49,6 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
  	make.top.mas_equalTo(otherView.mas_top).offset(10);
  	//make与otherView的上间距为10;
  	```
- 	
- 	>equalTo() 与 mas_equalTo() 的区别为:前者的参数为object,后者为前者的封装, 参数仅支持 *NSNumber* *CGPoint* *CGSize* *UIEdgeInsets*.
-
 
  4. 多控件处于同一水平线居中
  
@@ -83,7 +80,18 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
 	订单
 	```
 
-9. offset()与inset()的区别
+####概念区分
 
-	>
+#####equalTo() 与 mas_equalTo() 的区别
+
+```
+equalTo() 与 mas_equalTo() 的区别为:前者的参数为object,后者为前者的封装, 参数仅支持 *NSNumber* *CGPoint* *CGSize* *UIEdgeInsets*.
+```
+
+
+#####offset()与inset()的区别
+
+```
+的地方撒地方
+```
  
