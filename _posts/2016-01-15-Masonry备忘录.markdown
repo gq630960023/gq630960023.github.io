@@ -3,8 +3,14 @@ title:  "Masonry备忘录"
 date:   2016-01-15 16:27:01
 description: "Masonry的使用关键内容备注"
 ---
+
+
+如果不知道怎么用,  请直接参考里脊串的 [Masonry介绍与使用实践(快速上手Autolayout)](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/) 
+
+UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UIScrollview与Autolayout的那点事](http://adad184.com/2015/12/01/scrollview-under-autolayout/)
+
 　　
-####结构
+####使用方式
 #####外层方法
 
 ```
@@ -17,8 +23,34 @@ description: "Masonry的使用关键内容备注"
     mas_updateConstraints 针对上面的情况 会更新在block中出现的约束 不会导致出现两个相同约束的情况
     mas_remakeConstraints 则会清除之前的所有约束 仅保留最新的约束
     
-    三种函数善加利用 就可以应对各种情况了
 */
 ```
 
+#####内部结构
 
+1. 四个边距同时设定
+
+	```
+ make.edges.equalTo(otherView).with.insets(UIEdgeInsetsMake(5,5,5,5));
+ //make与otherView的上下左右间距差均为5;
+ ```
+ 
+ 
+ 2. 相对某view的某边的距离问题(equalTo())
+ 
+	```
+	make.top.equalTo(otherView).with.offset(10);
+ //make与otherView的上间距为10;
+ ```
+ 
+ 3. 相对某view的某边的距离问题(mas_equalTo())
+ 	
+ 	```
+ 	make.top.mas_equalTo(otherView.mas_top).offset(10);
+ 	//make与otherView的上间距为10;
+ 	```
+ 	
+ 	>equalTo() 与 mas_equalTo() 的区别为:前者的参数为object,后者为前者的封装, 参数仅支持 *NSNumber* *CGPoint* *CGSize* *UIEdgeInsets*.
+ 	
+ 4. 
+ 
