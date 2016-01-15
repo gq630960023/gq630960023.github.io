@@ -52,6 +52,7 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
  	
  	>equalTo() 与 mas_equalTo() 的区别为:前者的参数为object,后者为前者的封装, 参数仅支持 *NSNumber* *CGPoint* *CGSize* *UIEdgeInsets*.
  	
+ 	
  4. 多控件处于同一水平线居中
  
  	```
