@@ -1,0 +1,8 @@
+---
+title:  "Github目录整理"
+date:   2016-01-16 14:53:01
+description: "所有的star与follow都是有意义的"
+---
+
+>在github上看到了很多好的项目, 也习惯性地随手star和follow, 结果就是转头就忘记了. 现在记录一下每次star和follow的内容, 做好记录. 方便查找. 以后也会持续更新
+
