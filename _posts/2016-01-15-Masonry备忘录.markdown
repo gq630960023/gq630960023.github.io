@@ -107,6 +107,10 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
 #####offset()与inset()的区别
 
 ```
-前者指偏移量, 后者指间距.  待补充具体参数说明
+offset就是作用在单个属性的时候用 比如make.top.equalTo(self.view.mas_top).xxxx 这时候 equalTo的对象 是要指定具体属性的 比如mas_top,mas_right
+
+insets就是同时作用多个属性的时候用 比如 make.left.right.bottom.equalTo(self.view).xxxx 这时候 equalTo的对象 是不指定具体的属性的
+
+insets只是对offset封装了一下而已 避免offset写一大堆 用inset一句话就搞定了
 ```
  
