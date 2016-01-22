@@ -24,7 +24,136 @@ description: "所有的star与follow都是有意义的"
 * [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) — iOS 异步绘制与显示的工具。
 * [YYCategories](https://github.com/ibireme/YYCategories) — 功能丰富的 Category 类型工具库。
 
+####[ljz](https://github.com/lookingstars)
+
+各种高仿主流App, 并且在持续更新.
+
+* [meituan](https://github.com/lookingstars/meituan) 高仿美团。
+* [nuomi](https://github.com/lookingstars/nuomi) 高仿糯米.
+* [chuanke](https://github.com/lookingstars/chuanke) 高仿百度传课.
+* [tudou](https://github.com/lookingstars/tudou) 高仿土豆.
+
+more and more..
+
+
+####[Nick Lockwood](https://github.com/nicklockwood)
+
+Charcoal Design公司创始人兼iOS开发者.
+
+之前没有注意, 这个哥们做了好多相当不错的控件, 而且都相当的实用.
+
+* [iCarousel](https://github.com/nicklockwood/iCarousel) 3D效果的走马灯控件,相当实用。
+* [FXBlurView](https://github.com/nicklockwood/FXBlurView) 实用的视图模糊效果.
+* [iRate](https://github.com/nicklockwood/iRate) 用户评价控件.
+* [FXForms](https://github.com/nicklockwood/FXForms) 能够帮助开发者轻而易举地创建出基于表格的iOS表单.
+* [SwipeView](https://github.com/nicklockwood/SwipeView) 基于iCarousel的scrollView子类. 非常灵活的滚动视图
+
+####[微博@iOS程序犭袁](https://github.com/ChenYilong)
+
+主打教程类的的开源项目.想学习的在里面看一下, 非常不错.
+
+* [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) iOS9适配教程
+* [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试集锦.
+* [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) FaceBook开源的Parse源码分析 
+
+####[Jake Lin](https://github.com/JakeLin)
+
+* [IBAnimatable](https://github.com/JakeLin/IBAnimatable) 一个帮助我们在 Interface Builder 和 Swift Playground 里面设计 UI, 交互, 导航模式, 换场和动画的开源库。
+* [SwiftWeather](https://github.com/ChenYilong/iOSInterviewQuestions) 一款用swift实现的完整天气项目.
+
 
 
 ###Github开源库
+
+>自己的github中star比较多的就全部整理了出来. 比较流行的就留下地址, 一言带过. 不是太流行的, 自己了解之后, 将说明补充上来.
+
+#### [AfNetworking](https://github.com/AFNetworking/AFNetworking)
+
+网络框架. 不需多说.
+
+#### [pop](https://github.com/facebook/pop)
+
+facebook开源的动画框架.
+
+#### [Alcatraz](https://github.com/alcatraz/Alcatraz)
+
+xcode的插件包管理插件.
+
+#### [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+
+xcode注释补充插件.
+
+#### [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+
+下拉刷新控件.
+
+
+#### [nimbus](https://github.com/jverkoey/nimbus)
+
+一款框架. 在github上拥有了5000+的star. 本人暂时没有用过, 但是相信既然有这么多人关注, 那么一定提供了不平凡的功能.
+
+#### [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
+
+一款简易的cell侧滑类. 为UITableViewCell实现侧滑效果.
+
+#### [PureLayout](https://github.com/PureLayout/PureLayout)
+
+轻量级的autoLayout替代品. 类似于Masonry.
+
+#### [AwesomeMenu](https://github.com/levey/AwesomeMenu)
+
+天女散花式的菜单展开效果
+
+#### [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+
+根据xib+autolayout来生成的cell自动计算高度, 并且进行了很好的性能优化.
+
+#### [Cartography](https://github.com/robb/Cartography)
+
+swift下的autolayout替代品.
+
+#### [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)
+
+带有视觉差的tableView Header. 效果很棒. 
+
+#### [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)
+
+依赖于pop实现的页面切换动画. 相当的酷炫.
+
+
+#### [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)
+
+一款自定义UI的知乎日报APP.
+
+#### [SXNews](https://github.com/dsxNiubility/SXNews)
+
+模仿网易新闻做的新闻软件.
+
+效果做的非常接近原版, 并且在持续更新.
+
+#### [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+
+Google 开源项目风格指南 (中文版),其中包括 C++ Python Objective-c 和 Json .
+
+#### [DKNightVersion](https://github.com/Draveness/DKNightVersion)
+
+可以让你的项目添加夜间模式的项目.
+
+#### [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)
+
+TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
+
+#### [awesome-animation](https://github.com/Animatious/awesome-animation)
+
+由Animatious一起动画开源组成员原创或非原创实现的开源动效库的仓库地址
+
+特别多的优秀效果, 但是想要理解也需要不错的数学功底吧?
+
+
+
+
+------
+PS:
+
+大体就这些, 还有很多很多我没有整理的, 如果需要, 我会更新上来.
 
