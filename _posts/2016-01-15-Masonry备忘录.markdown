@@ -93,6 +93,23 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
 	make.centerX.equalTo(superView.centerX);
 	```
 	
+9. Aview的左边距离Bview的右边10px
+
+	```
+	make.left.mas_equalTo(Bview.mas_right).offset(10);
+	```
+	
+10. 权值的设置
+	
+	```
+	待补充
+	```
+	
+11. 两个控件右对齐
+	
+	```
+	待补充
+	```
 	
 
 ####概念区分
