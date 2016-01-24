@@ -102,16 +102,37 @@ UIScrollView中添加subView如果需要使用Masonry. 参考 里脊串的 [UISc
 10. 权值的设置
 	
 	```
-	待补充
+	make.width.equalTo(@0).priority(UILayoutPriorityRequired);
+	//UILayoutPriorityRequired 1000
+	//UILayoutPriorityDefaultHigh 750
+	//UILayoutPriorityDefaultLow 250
+	
 	```
 	
 11. 两个控件右对齐
 	
 	```
-	待补充
+	方法1:
+	make.left.equalTo(Bview.mas_left);
+	方法2:
+	
 	```
 	
+12. 单一约束生效/单一约束无效
 
+	```	
+	初始化约束:
+	@property (nonatomic, strong) MASConstraint *constr; 
+	方法体中创建约束:
+	[view mas_makeConstraints:^(MASConstraintMaker *make) {
+            constr = make.height.equalTo(@0).priority(UILayoutPriorityRequired);
+        }];
+    约束无效:
+    [constr deactivate];
+    约束生效:
+    [constr activate];
+	```
+	
 ####概念区分
 
 #####equalTo() 与 mas_equalTo() 的区别
