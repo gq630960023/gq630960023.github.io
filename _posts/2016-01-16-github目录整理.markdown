@@ -67,6 +67,13 @@ Charcoal Design公司创始人兼iOS开发者.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) 一个帮助我们在 Interface Builder 和 Swift Playground 里面设计 UI, 交互, 导航模式, 换场和动画的开源库。
 * [SwiftWeather](https://github.com/ChenYilong/iOSInterviewQuestions) 一款用swift实现的完整天气项目.
 
+####[ralph li](https://github.com/adad184)
+
+里脊串的github,相对于博客, github不是很出名, 但是手里的项目用起来都很有意思.
+
+* [MMPopupView](https://github.com/adad184/MMPopupView) pop动画做的弹出view控件. 
+* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) 为界面中的view添加标尺.
+
 
 ---
 
