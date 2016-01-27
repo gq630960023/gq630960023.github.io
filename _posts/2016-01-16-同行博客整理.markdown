@@ -42,4 +42,6 @@ description: "整理一些同行的博客, 学习使用"
  
  [伽蓝之堂](http://blog.ibireme.com/)
  
+ [雪夜吐息](http://www.jianshu.com/users/210e2599770d/latest_articles) (CA动画做加载效果的详细总结说明)
+ 
  
