@@ -180,6 +180,14 @@ TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)�
 特别多的优秀效果, 但是想要理解也需要不错的数学功底吧?
 
 
+#### [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+
+聊天控件.
+
+
+#### [FlatUIKit](https://github.com/Grouper/FlatUIKit)
+
+扁平化的UI控件.
 
 
 ------
