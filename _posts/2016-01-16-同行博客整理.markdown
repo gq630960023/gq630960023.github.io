@@ -46,4 +46,10 @@ description: "整理一些同行的博客, 学习使用"
  
  [OneV's Den](http://onevcat.com/#blog) 
  
+ [念茜的博客](http://blog.csdn.net/yiyaaixuexi)
+ 
+ [M了个J](http://www.cnblogs.com/mjios/)
+ 
+ [Binary Of Felix](http://www.starfelix.com/)
+ 
  

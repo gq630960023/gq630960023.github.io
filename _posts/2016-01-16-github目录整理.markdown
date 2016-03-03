@@ -189,6 +189,10 @@ TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)�
 
 扁平化的UI控件.
 
+#### [shenzhen](https://github.com/nomad/shenzhen)
+
+自动打包的工具
+
 
 ------
 PS:
