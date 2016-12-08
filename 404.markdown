@@ -1,0 +1,13 @@
+---
+layout: page_not_found
+title: "Page not found"
+permalink: /404.html
+hide: true
+---
+
+
+<p>咳, 页面..那个...
+就着辣椒吃掉啦!</p>
+
+<pre><code>啊多少放假啊上的旅客发送简单
+</code></pre>
