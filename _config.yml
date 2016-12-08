@@ -1,0 +1,42 @@
+name: 端木方羽的代码战争
+description: 一不小心就沦为会写代码说段子,偶尔拍点蹩脚照片的单身.汪! 
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+aboutPage: true
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 20
+baseurl: /
+domain_name: 'http://codewar.win'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://codewar.win'
+author:         '端木方羽'
+# authorTwitter:  'YourTwitterUsername'
+
+permalink:      /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
