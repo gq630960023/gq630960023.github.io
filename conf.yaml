@@ -1,8 +1,8 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
 url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
+title: 虾丸的代码战争
+subtitle: 一不小心就沦为会写代码说段子,偶尔拍点蹩脚照片的单身.汪! 
 theme: simple
 enableCache: true
 highlight: true
@@ -10,15 +10,13 @@ mathjax: false
 katex: false
 duoshuo:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: 1111111
 description: >
     GitBlog是一个简单易用的Markdown博客系统
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: 虾丸
+    email: 630960023@qq.com
     avatar:
 blog:
     recentSize: 5
