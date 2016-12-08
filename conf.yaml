@@ -1,0 +1,30 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: 瘦课网开发者博客
+subtitle: 打造属于我们的开发博客
+theme: quest
+enableCache: true
+highlight: true
+mathjax: false
+duoshuo:
+baiduAnalytics:
+keywords: 瘦课网,博客,Markdown博客,开发者
+description: >
+    瘦课网,博客,Markdown博客,开发者
+version: 2.2
+author:
+    name: 瘦课网
+    email: yuzy@esoocedu.com
+    github: newfuture
+    weibo: weibo
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          本博客是为开发者搭建，欢迎你!
